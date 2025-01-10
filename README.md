@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+Este é um projeto de uma calculadora simples. O objetivo é realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 This project is a starting point for a Flutter application.
 
